@@ -1,10 +1,10 @@
 # functional-light-js
-Ukrainian translation of “Functional Light JS” by @getify
 
 [![Twitter][twitter-image]][twitter-url]
 [![Facebook][facebook-image]][facebook-url]
 [![Stars][github-image]][github-url]
 
+Ukrainian translation of “Functional Light JS” by @getify
 
 [twitter-url]: https://twitter.com/LambdaBooks
 [twitter-image]: https://img.shields.io/badge/twitter-%40LambdaBooks-00ACEE.svg?style=flat-square
